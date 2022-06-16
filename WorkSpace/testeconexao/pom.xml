@@ -1,0 +1,21 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion><!-- Versão -->
+  <groupId>aulaconexao</groupId><!-- Nome do pacote- siga o padrão -->
+  <artifactId>testeconexao</artifactId><!-- Nome do projeto -->
+  <version>0.0.1-SNAPSHOT</version><!-- versao -->
+  
+  
+  <!-- Eu vou etudar
+  		"O arquivo persistence.xml
+  		Mapeamento de relacionamentos
+  		Ciclo de vida de uma entidade
+  		Consultas com JPQL - linguagem parecida com SQL
+  		
+  		Padrões Java
+  		
+  		-POJO- uma classe simples usando atributos-construtor-get e set
+  		-DAO (classe de acesso a dados)
+  		-Se quiser viajar nos antecessores do JPA (estudar JDBC)
+  				
+   -->
+</project>
